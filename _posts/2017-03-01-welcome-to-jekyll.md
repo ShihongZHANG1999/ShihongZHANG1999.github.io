@@ -1,6 +1,5 @@
 ---
 title: "Education"
-layout: post
 ---
 
 2017.9-2021.6  Wuhan University of Technology  
